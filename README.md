@@ -5,7 +5,7 @@
 <!-- Add your details -->
 ✉️: email_julienwong8@gmail.com 
 &nbsp;&nbsp; 📲 +65 9743 3400
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn]({linkedin.com/in/julien-wong-2499b054)/20%) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](linkedin.com/in/julien-wong-2499b054) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
 <!-- CONTACT Section Ends -->
 
@@ -13,7 +13,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://media-exp1.licdn.com/dms/image/C5603AQHnCKhEbEIZGw/profile-displayphoto-shrink_800_800/0/1554959818550?e=1660780800&v=beta&t=K9CznbLJl247M_vG2tBTxGApnmVquc0iV6nxrr-UV_8)
+![alt text](https://media-exp1.licdn.com/dms/image/C5603AQHnCKhEbEIZGw/profile-displayphoto-shrink_800_800/0/1554959818550?e=1660780800&v=beta&t=K9CznbLJl247M_vG2tBTxGApnmVquc0iV6nxrr-UV_8)/2
 
 <!-- Add your details -->
 
