@@ -5,7 +5,7 @@
 <!-- Add your details -->
 ✉️: email_id@xxxxx.com 
 &nbsp;&nbsp; 📲 +91-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn]([https://www.linkedin.com/in/kumar-vishwesh-8b059170/](https://www.linkedin.com/in/julien-wong-2499b054/?midToken=AQGesczTQBq3nA&midSig=1GAG_o87w4VWg1&trk=eml-email_jobs_saved_job_reminder_01-header-43-profile&trkEmail=eml-email_jobs_saved_job_reminder_01-header-43-profile-null-378w9l%7El4blef20%7Ewt-null-neptune%2Fprofile%7Evanity%2Eview)) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
 <!-- CONTACT Section Ends -->
 
