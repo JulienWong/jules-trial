@@ -3,7 +3,7 @@
 ### CONTACT
 
 <!-- Add your details -->
-✉️: email_id@xxxxx.com 
+✉️: email_julienwong8@gmail.com 
 &nbsp;&nbsp; 📲 +91-XXXXXXXXXX
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](linkedin.com/in/julien-wong-2499b054) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
