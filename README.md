@@ -13,7 +13,7 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://media-exp1.licdn.com/dms/image/C5603AQHnCKhEbEIZGw/profile-displayphoto-shrink_800_800/0/1554959818550?e=1660780800&v=beta&t=K9CznbLJl247M_vG2tBTxGApnmVquc0iV6nxrr-UV_8) " width="50%" alt="">
+![alt text](https://media-exp1.licdn.com/dms/image/C5603AQHnCKhEbEIZGw/profile-displayphoto-shrink_400_400/0/1554959818550?e=1660780800&v=beta&t=K9CznbLJl247M_vG2tBTxGApnmVquc0iV6nxrr-UV_8)
 
 <!-- Add your details -->
 
