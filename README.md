@@ -5,7 +5,7 @@
 <!-- Add your details -->
 ✉️: email_julienwong8@gmail.com 
 &nbsp;&nbsp; 📲 +65 9743 3400
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn]({linkedin.com/in/julien-wong-2499b054)/2) 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn]({linkedin.com/in/julien-wong-2499b054)/20%) 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
 <!-- CONTACT Section Ends -->
 
